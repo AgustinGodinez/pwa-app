@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pwa-app/static/css/main.3580062e.css",
+    "main.js": "/pwa-app/static/js/main.a41d8270.js",
+    "index.html": "/pwa-app/index.html",
+    "main.3580062e.css.map": "/pwa-app/static/css/main.3580062e.css.map",
+    "main.a41d8270.js.map": "/pwa-app/static/js/main.a41d8270.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3580062e.css",
+    "static/js/main.a41d8270.js"
+  ]
+}
